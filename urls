@@ -1,0 +1,3 @@
+https://machinelearningpoc.run.aws-usw02-pr.ice.predix.io/predict
+---->>>>json object
+{"Size":1600,"Bedrooms":2,"Age":8,"Bathrooms":2}
